@@ -19,7 +19,7 @@ Postman (for testing)
 
 # How to Run
 # Clone project
-git clone https://github.com/yourusername/medical-chatbot-fastapi.git
+git clone https://github.com/yourusername/medical-chatbot-.git
 
 # Go to folder
 cd project folder
